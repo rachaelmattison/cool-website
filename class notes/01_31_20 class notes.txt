@@ -78,6 +78,22 @@ Can allow you to do different things that you can't do on finder window;;
 "Git remote add origin " 
 "Git push -u origin master " 
 
+" Git remote" will locate you or allow you to follow commands after it 
+
+
+If you type " -v " after a command it will tell you what version you have of it aka the file. 
+
+
+if you type " Upstream " will give you access to different versions of the code of the files to go to a use. 
+
+
+
+
+
+
+::: HOW WE AEW GOING TO EDIT OUR WEBSITES FOR THE REST OF THE SEMESTER:::: 
+
+
 
 
 
